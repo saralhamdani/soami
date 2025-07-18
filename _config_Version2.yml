@@ -1,0 +1,11 @@
+title: soami
+email: your-email@example.com
+description: >-
+  soami - Fashion brand. Playful, personal, timeless.
+baseurl: ""
+url: "https://saralhamdani.github.io/soami"
+theme: minima
+collections:
+  closets:
+    output: true
+    permalink: /closets/:name/

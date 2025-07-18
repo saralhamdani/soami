@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <img src="{{ '/assets/logo.png' | relative_url }}" alt="soami logo" class="logo">
+    <nav>
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/lookbook/' | relative_url }}">Lookbook</a>
+      <a href="{{ '/closets/' | relative_url }}">Closets</a>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    &copy; {{ site.time | date: '%Y' }} soami. All rights reserved.
+  </footer>
+</body>
+</html>
