@@ -12,14 +12,14 @@ Discover curated outfits and editorial looks from soami’s latest collections.
 <div style="display: flex; gap: 24px; flex-wrap: wrap;">
   <div style="text-align: center;">
     <img src="/assets/polka%20dot%20dress.jpg" alt="Polka dot dress" style="width: 300px; border-radius: 12px; margin-bottom: 8px;">
-    <div>Polka dot dress</div>
+    <div>polka dot dress</div>
   </div>
   <div style="text-align: center;">
     <img src="/assets/black%20swan%20dress.jpg" alt="Black swan dress" style="width: 300px; border-radius: 12px; margin-bottom: 8px;">
-    <div>Black swan dress</div>
+    <div>black swan dress</div>
   </div>
   <div style="text-align: center;">
     <img src="/assets/outrageous%20bride%20skirt.jpg" alt="Outrageous bride skirt" style="width: 300px; border-radius: 12px; margin-bottom: 8px;">
-    <div>Outrageous bride skirt</div>
+    <div>outrageous bride skirt</div>
   </div>
 </div>
