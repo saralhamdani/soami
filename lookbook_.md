@@ -7,9 +7,19 @@ permalink: /lookbook/
 # Lookbook
 
 Step into our world of style.  
-Discover curated outfits and editorial looks from soami's latest collections.
+Discover curated outfits and editorial looks from soami’s latest collections.
 
-<!-- Add lookbook images below -->
-/assets/2a1302f1-e7ac-4af2-89be-374ce6e102a7.jpg
-/assets/2c94a0df-7b7a-4b04-a16a-7f484af523b5.jpg
-/assets/5ae08e23-1c79-479a-b6cd-cbdef00c2989.jpg
+<div style="display: flex; gap: 24px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="/assets/polka dot dress.jpg" alt="Polka dot dress" style="width: 300px; border-radius: 12px; margin-bottom: 8px;">
+    <div>Polka dot dress</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/black swan dress.jpg" alt="Black swan dress" style="width: 300px; border-radius: 12px; margin-bottom: 8px;">
+    <div>Black swan dress</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/outrageous bride skirt.jpg" alt="Outrageous bride skirt" style="width: 300px; border-radius: 12px; margin-bottom: 8px;">
+    <div>Outrageous bride skirt</div>
+  </div>
+</div>
