@@ -10,5 +10,6 @@ Step into our world of style.
 Discover curated outfits and editorial looks from soami's latest collections.
 
 <!-- Add lookbook images below -->
-![Look 1](https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80)
-![Look 2](https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=400&q=80)
+![Inspiration 1](/assets/2a1302f1-e7ac-4af2-89be-374ce6e102a7.jpg)
+![Inspiration 2](/assets/2c94a0df-7b7a-4b04-a16a-7f484af523b5.jpg)
+![Inspiration 3](/assets/5ae08e23-1c79-479a-b6cd-cbdef00c2989.jpg)
